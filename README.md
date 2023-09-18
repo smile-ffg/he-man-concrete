@@ -1,4 +1,4 @@
-# HE-MAN-Concrete
+# he-man-concrete
 ![Architecture](img/architecture.PNG)
 
 
@@ -52,3 +52,23 @@ Remote-Containers: Clone Repository in Container Volume...
 
 ## License
 This software uses several dependencies that have different licenses. It is the responsibility of the user of this software to ensure they have the proper rights to the underlying dependencies.
+
+## citing HE-MAN
+```bibtex
+@inproceedings{10.1145/3589883.3589889,
+  author = {Nocker, Martin and Drexel, David and Rader, Michael and Montuoro, Alessio and Sch\"{o}ttle, Pascal},
+  title = {HE-MAN – Homomorphically Encrypted MAchine Learning with ONnx Models},
+  year = {2023},
+  isbn = {9781450398329},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3589883.3589889},
+  doi = {10.1145/3589883.3589889},
+  booktitle = {Proceedings of the 2023 8th International Conference on Machine Learning Technologies},
+  pages = {35–45},
+  numpages = {11},
+  keywords = {Machine Learning as a Service, Homomorphic Encryption, Secure and Privacy-Preserving Machine Learning},
+  location = {Stockholm, Sweden},
+  series = {ICMLT '23}
+}
+```
